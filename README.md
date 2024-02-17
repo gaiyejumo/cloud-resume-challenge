@@ -1,8 +1,7 @@
-# cloud-resume-challenge
+# Cloud-resume-challenge
 Using my resume and website to create a cloud resume
 
-
-
+![architecture-diagram](https://github.com/gaiyejumo/cloud-resume-challenge/assets/41402706/baeb9d90-5ac6-46b8-9994-92d68b76c8a7)
 
 # To deploy code from your GitHub repository to an Amazon S3 bucket.
 # DeployHQ:
