@@ -4,7 +4,7 @@ Using my resume and website to create a cloud resume
 
 
 
-# To deploy code from your GitHub repository to an Amazon S3 bucket, you have a few options. Let’s explore them:
+# To deploy code from your GitHub repository to an Amazon S3 bucket.
 # DeployHQ:
 DeployHQ is a service that streamlines the deployment process. Here’s how you can set it up:
 Create a new project in DeployHQ, specifying your GitHub repository.
